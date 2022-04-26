@@ -12,3 +12,5 @@ You got to whip it up
 And hit me like a ton of lead
 If I blow my top
 Will you let it go to your head?
+
+new string
